@@ -1,1 +1,1 @@
-Hello my name is Karanveer SIngh and this is my personal website!
+Hello my name is Karanveer Singh and this is my personal website!
