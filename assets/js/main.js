@@ -28,7 +28,7 @@
 
 
 
-	//Read more/ read less
+	//Edit Karan made for Read more/ read less functionality
 		$(document).ready(function() {
 			$("#toggle").click(function() {
 			var elem = $("#toggle").text();
