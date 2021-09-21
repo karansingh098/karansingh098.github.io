@@ -149,6 +149,19 @@ input, select, textarea {
 			padding-right: 10em;
 		}
 
+	h4 {
+		font-size: 1.25em;
+		color: #333;
+	}
+		h4.alt{
+			text-align: left;
+		}
+		h4.alt2{
+			text-align: left;
+			font-size: 1em;
+			padding-right: 10em;
+		}
+
 	header {
 		margin: 0 0 2em 0;
 	}
